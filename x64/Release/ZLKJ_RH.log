@@ -1,0 +1,32 @@
+﻿  stdafx.cpp
+C:\Program Files\Rhino 6 SDK\opennurbs\opennurbs_dimensionstyle.h(1798,1): warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失
+C:\Program Files\Rhino 6 SDK\inc\RhinoSdkSpaceMorph.h(1,1): warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失
+   --- Rhino C++ component links with libs in "C:/Program Files/Rhino 6 SDK/Lib/Release"
+  CMD_BLOCK_EDIT.cpp
+E:\ZLKJ\开发\BLOCK_EX\BLOCK_C\EDITOR_FORM.h(16,23): error C3646: “m_preview”: 未知重写说明符
+E:\ZLKJ\开发\BLOCK_EX\BLOCK_C\EDITOR_FORM.h(16,32): error C4430: 缺少类型说明符 - 假定为 int。注意: C++ 不支持默认 int
+  CMD_BLOCK_UNIQUE.cpp
+E:\ZLKJ\开发\BLOCK_EX\BLOCK_C\CMD_BLOCK_UNIQUE.cpp(100,10): warning C4189: “rc”: 局部变量已初始化但不引用
+  CMD_RELOCATION_BLOCK.cpp
+E:\ZLKJ\开发\BLOCK_EX\BLOCK_C\EDITOR_FORM.h(16,23): error C3646: “m_preview”: 未知重写说明符
+E:\ZLKJ\开发\BLOCK_EX\BLOCK_C\EDITOR_FORM.h(16,32): error C4430: 缺少类型说明符 - 假定为 int。注意: C++ 不支持默认 int
+  CMD_RENAME_BLOCK.cpp
+E:\ZLKJ\开发\BLOCK_EX\BLOCK_C\EDITOR_FORM.h(16,23): error C3646: “m_preview”: 未知重写说明符
+E:\ZLKJ\开发\BLOCK_EX\BLOCK_C\EDITOR_FORM.h(16,32): error C4430: 缺少类型说明符 - 假定为 int。注意: C++ 不支持默认 int
+  CMD_REPLACE_BLOCK.cpp
+E:\ZLKJ\开发\BLOCK_EX\BLOCK_C\CMD_REPLACE_BLOCK.cpp(72,10): warning C4189: “rc”: 局部变量已初始化但不引用
+  CMD_REPLACE_BLOCK_OBJ.cpp
+  EDITOR_FORM.cpp
+E:\ZLKJ\开发\BLOCK_EX\BLOCK_C\EDITOR_FORM.h(16,23): error C3646: “m_preview”: 未知重写说明符
+E:\ZLKJ\开发\BLOCK_EX\BLOCK_C\EDITOR_FORM.h(16,32): error C4430: 缺少类型说明符 - 假定为 int。注意: C++ 不支持默认 int
+  EVENT_WATCHER.cpp
+E:\ZLKJ\开发\BLOCK_EX\BLOCK_C\EDITOR_FORM.h(16,23): error C3646: “m_preview”: 未知重写说明符
+E:\ZLKJ\开发\BLOCK_EX\BLOCK_C\EDITOR_FORM.h(16,32): error C4430: 缺少类型说明符 - 假定为 int。注意: C++ 不支持默认 int
+E:\ZLKJ\开发\BLOCK_EX\BLOCK_C\EVENT_WATCHER.cpp(239,52): warning C4130: “==”: 字符串常量地址的逻辑操作
+  GET_POINT.cpp
+  ZLKJ_RH_APP.cpp
+  ZLKJ_RH_PLUGIN.cpp
+E:\ZLKJ\开发\BLOCK_EX\BLOCK_C\EDITOR_FORM.h(16,23): error C3646: “m_preview”: 未知重写说明符
+E:\ZLKJ\开发\BLOCK_EX\BLOCK_C\EDITOR_FORM.h(16,32): error C4430: 缺少类型说明符 - 假定为 int。注意: C++ 不支持默认 int
+E:\ZLKJ\开发\BLOCK_EX\BLOCK_C\ZLKJ_RH_PLUGIN.cpp(181,30): warning C4239: 使用了非标准扩展:“初始化”: 从“ON_4iRect”转换到“ON_4iRect &”
+E:\ZLKJ\开发\BLOCK_EX\BLOCK_C\ZLKJ_RH_PLUGIN.cpp(181,30): message : 非常量引用只能绑定到左值

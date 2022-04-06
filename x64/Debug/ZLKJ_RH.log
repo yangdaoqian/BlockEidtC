@@ -1,0 +1,37 @@
+﻿D:\Program Files (x86)\Microsoft Visual Studio\2019\Professional\MSBuild\Microsoft\VC\v160\Microsoft.CppBuild.targets(513,5): warning MSB8028: 中间目录(x64\Debug\)包含从另一个项目(BLOCK_EDIT.vcxproj, ZLKJ_RH.vcxproj)共享的文件。   这会导致错误的清除和重新生成行为。
+  stdafx.cpp
+   --- rhinoSDK.h --- Building Release Rhino V6 plug-in
+   --- rhinoSDK.h --- Using Visual Studio 2017 compiler tools.
+   --- rhinoSDK.h --- Using v140 Windows Platform SDK (MFC 14.1, VS 2017).
+C:\Program Files\Rhino 6 SDK\opennurbs\opennurbs_dimensionstyle.h(1798,1): warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失
+C:\Program Files\Rhino 6 SDK\inc\RhinoSdkSpaceMorph.h(1,1): warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失
+C:\Program Files\Rhino 6 SDK\inc\rhinoSdkUiRegistry.h(1,1): warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失
+C:\Program Files\Rhino 6 SDK\inc\RhinoSdkUiTabbedSheetCtrl.h(1,1): warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失
+C:\Program Files\Rhino 6 SDK\inc\RhinoSdkUiTabbedSheetCtrl.h(743,1): warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失
+C:\Program Files\Rhino 6 SDK\inc\rhinoSdkUiOptionsListCtrlItem.h(750,1): warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失
+C:\Program Files\Rhino 6 SDK\inc\rhinoSdkUiOptionsListCtrl.h(1,1): warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失
+   --- Rhino C++ component links with libs in "C:/Program Files/Rhino 6 SDK/Lib/Release"
+  CMD_BLOCK_EDIT.cpp
+  CMD_BLOCK_UNIQUE.cpp
+E:\ZLKJ\开发\BLOCK_EX\BLOCK_C\CMD_BLOCK_UNIQUE.cpp(100,10): warning C4189: “rc”: 局部变量已初始化但不引用
+  CMD_RELOCATION_BLOCK.cpp
+  CMD_RENAME_BLOCK.cpp
+  CMD_REPLACE_BLOCK.cpp
+E:\ZLKJ\开发\BLOCK_EX\BLOCK_C\CMD_REPLACE_BLOCK.cpp(72,10): warning C4189: “rc”: 局部变量已初始化但不引用
+  CMD_REPLACE_BLOCK_OBJ.cpp
+  EDITOR_FORM.cpp
+E:\ZLKJ\开发\BLOCK_EX\BLOCK_C\EDITOR_FORM.cpp(193,39): warning C4189: “idef1”: 局部变量已初始化但不引用
+E:\ZLKJ\开发\BLOCK_EX\BLOCK_C\EDITOR_FORM.cpp(222,33): warning C4189: “idef_table”: 局部变量已初始化但不引用
+E:\ZLKJ\开发\BLOCK_EX\BLOCK_C\EDITOR_FORM.cpp(241,37): warning C4189: “idef0”: 局部变量已初始化但不引用
+E:\ZLKJ\开发\BLOCK_EX\BLOCK_C\EDITOR_FORM.cpp(568,35): warning C4189: “m_idef0”: 局部变量已初始化但不引用
+  EVENT_WATCHER.cpp
+E:\ZLKJ\开发\BLOCK_EX\BLOCK_C\EVENT_WATCHER.cpp(251,52): warning C4130: “==”: 字符串常量地址的逻辑操作
+  GET_POINT.cpp
+  BLOCK_APP.cpp
+  BLOCK_PLUGIN.cpp
+E:\ZLKJ\开发\BLOCK_EX\BLOCK_C\BLOCK_PLUGIN.cpp(181,30): warning C4239: 使用了非标准扩展:“初始化”: 从“ON_4iRect”转换到“ON_4iRect &”
+E:\ZLKJ\开发\BLOCK_EX\BLOCK_C\BLOCK_PLUGIN.cpp(181,30): message : 非常量引用只能绑定到左值
+  正在生成代码...
+E:\ZLKJ\开发\BLOCK_EX\BLOCK_C\EDITOR_FORM.cpp(517): warning C4715: “EDITOR_FORM::selected_index”: 不是所有的控件路径都返回值
+    正在创建库 E:\ZLKJ\开发\BLOCK_EX\BLOCK_C\x64\Debug\BlockEditEX.lib 和对象 E:\ZLKJ\开发\BLOCK_EX\BLOCK_C\x64\Debug\BlockEditEX.exp
+  ZLKJ_RH.vcxproj -> E:\ZLKJ\开发\BLOCK_EX\BLOCK_C\x64\Debug\BlockEditEX.rhp
